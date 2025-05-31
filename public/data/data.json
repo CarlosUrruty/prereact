@@ -1,0 +1,109 @@
+[
+{
+    "id":1,
+    "nombre":"Cheesecake",
+    "precio":25000,
+    "stock":15,
+    "imagen":"https://imgur.com/2vrzyzI",
+    "categoria":"Clasica"
+},
+
+{
+    "id":2,
+    "nombre":"Chocotorta",
+    "precio":22000,
+    "stock":12,
+    "imagen":"https://imgur.com/a/P4CcoBE",
+    "categoria":"Clasica"
+},
+
+{
+    "id":3,
+    "nombre":"Torta Maicena",
+    "precio":24000,
+    "stock":16,
+    "imagen":"https://imgur.com/0rBMO48",
+    "categoria":"Clasica"
+},
+
+{
+    "id":4,
+    "nombre":"Alfajores x 6",
+    "precio":12000,
+    "stock":35,
+    "imagen":"https://imgur.com/sBZjv90",
+    "categoria":"Otros"
+},
+
+{
+    "id":5,
+    "nombre":"Cookies Granja",
+    "precio":3000,
+    "stock":40,
+    "imagen":"https://imgur.com/xOKjRj2",
+    "categoria":"Otros"
+},
+
+{
+    "id":6,
+    "nombre":"Cupcakes x 6",
+    "precio":15000,
+    "stock":24,
+    "imagen":"https://imgur.com/2QDlUIv",
+    "categoria":"Otros"
+},
+
+{
+    "id":7,
+    "nombre":"Torta Rosas",
+    "precio":66000,
+    "stock":6,
+    "imagen":"https://imgur.com/bMTFXHX",
+    "categoria":"Personalizada"
+},
+
+{
+    "id":8,
+    "nombre":"Torta Mariposas",
+    "precio":48000,
+    "stock":4,
+    "imagen":"https://imgur.com/XhUF2HZ",
+    "categoria":"Personalizada"
+},
+
+{
+    "id":9,
+    "nombre":"Torta TikTok",
+    "precio":50000,
+    "stock":7,
+    "imagen":"https://imgur.com/L9rJhLv",
+    "categoria":"Personalizada"
+},
+
+{
+    "id":10,
+    "nombre":"Tarta de Frutillas",
+    "precio":19000,
+    "stock":12,
+    "imagen":"https://imgur.com/aQ2kG7w",
+    "categoria":"Tarta"
+},
+
+{
+    "id":11,
+    "nombre":"Tarta de Ricota",
+    "precio":21000,
+    "stock":5,
+    "imagen":"https://imgur.com/PYQDlFO",
+    "categoria":"Tarta"
+},
+
+{
+    "id":12,
+    "nombre":"Tarta Toffee",
+    "precio":23000,
+    "stock":4,
+    "imagen":"https://imgur.com/wyjGvd1",
+    "categoria":"Tarta"
+}
+]
